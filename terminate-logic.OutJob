@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=terminate-logic.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -120,9 +120,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=Project Outputs for Free Documents\
+OutputFilePath3=C:\projects\terminate-logic\output\
 ReleaseManaged3=0
-OutputBasePath3=Project Outputs for Free Documents
+OutputBasePath3=output\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -137,7 +137,7 @@ OpenOutput3=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=output\terminate-logic.PDF
 OpenOutputs2=1
-RelativeOutputPath3=Project Outputs for Free Documents\
+RelativeOutputPath3=C:\projects\terminate-logic\output\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
